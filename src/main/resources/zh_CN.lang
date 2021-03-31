@@ -1,0 +1,14 @@
+general:
+    prefix: "&8[&bCosmicVaults&8]"
+
+notanumber="&c这不是一个数字, 请重新输入!"
+reloaded="&a所有文件已被重载!"
+
+vaultzero="&c您无法打开容量低于 1 的仓库。"
+iconchanged="&a设置仓库序号 &b%vault_number%&a 的图标为 &b%item%"
+namechanged="&a仓库序号 #&b%vault_number%&a 的名称被重命名为 &b%vault_name%"
+vaultopenalready="&c那个仓库现在正在被使用!"
+
+player-offline="&c玩家 &b%player%&c 目前并不在线。"
+
+pv.no-permission="&c您没有权限打开仓库: &b%vault_number%"
